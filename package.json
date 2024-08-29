@@ -1,0 +1,15 @@
+{
+  "name": "lecture-5",
+  "version": "1.0.0",
+  "description": "a backend from chai aur code youTube channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "backend"
+  ],
+  "author": "Ayush Mishra",
+  "license": "ISC"
+}
